@@ -1,2 +1,3 @@
 Bruno Ludueña   
-## Sobre Mí        
+## Sobre Mí
+## Habilidades Técnica        
